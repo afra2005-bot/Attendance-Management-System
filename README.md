@@ -13,13 +13,14 @@
 [mention your project hosted project link he
 
 ### Project Description
+Attendance Manager is a user-friendly web application designed to streamline attendance tracking and management for educational institutions. This platform simplifies the process for faculty members by providing an intuitive interface to mark and manage student attendance. In addition to basic attendance features, Attendance Manager includes email notifications, allowing instructors to send automatic reminders and updates to students regarding their attendance status. The application aims to reduce administrative workload while ensuring effective communication and transparency between faculty and students.
 
+Key Features:
+-Easy-to-use interface for marking and tracking attendance
+-Email notifications for attendance updates and reminders
+-Support for multiple classes and student profiles
+-Secure and scalable platform for school-wide deployment
 
-### The Problem statement
-
-
-### The Solution
-[How are you solving it? Keep it fun!]
 
 ## Technical Details
 ### Technologies/Components Used
@@ -29,17 +30,6 @@ For Software:
 - JavaScript
 - PHP
 
-
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
-
-### Project Documentation
-For Software:
 
 # Screenshots (Add at least 3)
 ![Screenshot 2025-02-01 175946](https://github.com/user-attachments/assets/12b68818-6155-440c-99e8-21b7e1028bda)
@@ -69,45 +59,6 @@ Login page.The faculty can log into the site using their username and password
 
 ![Screenshot 2025-02-01 180613](https://github.com/user-attachments/assets/026f5ac7-3711-4b5e-916c-056578d3e9c3)
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Team](Add photo of your team here)
-
-
-![Components](Add photo of your components here)
-
-
-
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-
-
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub
