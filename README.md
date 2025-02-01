@@ -6,8 +6,8 @@
 
 
 ### Team Members
-- Member 1: Fathima Afra K - College of Engineering Trivandrum
-- Member 2: Riya Jameela N - College of Engineering Trivandrum
+Fathima Afra K - College of Engineering Trivandrum
+Riya Jameela N - College of Engineering Trivandrum
 
 ### Hosted Project Link
 [mention your project hosted project link he
